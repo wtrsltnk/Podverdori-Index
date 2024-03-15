@@ -6,7 +6,7 @@ https://feeds.soundcloud.com/users/soundcloud:users:264167152/sounds.rss
 https://cppcast.com/feed.rss
 https://podcast.npo.nl/feed/de-jortcast.xml
 https://changelog.com/practicalai/feed?ref=blog.paperspace.com
-https://podcast.npo.nl/feed/de-brand-in-het-landhuis.xml
+https://rss.art19.com/met-nerds-om-tafel
 # NPO Radio 1
 https://podcast.npo.nl/feed/1-op-1.xml
 https://podcast.npo.nl/feed/4-van-de-villa.xml
